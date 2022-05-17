@@ -1,0 +1,9 @@
+.board{
+    width: 100%;
+    height: auto;
+    min-height:calc(100vh - 85px);
+    display: flex;
+    background: #F0F1F4;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
